@@ -1,5 +1,5 @@
 <div alingn="center">
-<img src"https://github.com/MariaIsabelli/EstrelaDaMorte/blob/main/estrela%20da%20morte.jpg" width="300px"/>
+<img src"https://github.com/MariaIsabelli/EstrelaDaMorte/blob/main/estrela%20da%20morte.jpg"/>
 </div>
 
 # EstrelaDaMorte
